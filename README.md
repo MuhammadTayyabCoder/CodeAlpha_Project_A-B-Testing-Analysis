@@ -18,4 +18,3 @@ Before rolling out the change, the team would be more comfortable testing it on 
 5. Drawing conclusions
 
 
-Author: Akash M Dubey
